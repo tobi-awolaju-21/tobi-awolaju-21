@@ -6,11 +6,12 @@
     - Backend development with Golang
     - Javascript ❤️
 - 💞️ I’m looking to collaborate on Engineering projects
+- 
 - 📫 How to reach me:
-    - [Sidot Art](https://wa.me/+2348133801134) (Whatsapp)
     - https://www.linkedin.com/in/awolaju/
     - tobiawolaju21@gmail.com (email)
-    - @TobiAwolaju (twitter).
+    - @TobiAwolaju (twitter)
+    - myArt Portfolio http://sidotart.vercel.app
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=folaoluwafemi&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
