@@ -1,7 +1,7 @@
 ## Designer | Engineer ##
 - 👋🏾 Hi, I’m Tobiloba Awolaju -- SidotArt
 - 👀 I’m interested in:
-    - Cross Platform app development with flutter
+    - web development
     - Hardware programming
     - Backend development with Golang
     - Javascript ❤️
@@ -13,21 +13,7 @@
     - @TobiAwolaju (twitter)
     - myArt Portfolio http://sidotart.vercel.app
  
-  ## デザイナー |エンジニア ＃＃
-- 👋🏾 こんにちは、Tobilaba Awolaju です -- SidotArt
-- 👀次のことに興味があります:
-    - Flutterを使用したクロスプラットフォームアプリ開発
-    - ハードウェアプログラミング
-    - Golang を使用したバックエンド開発
-    - JavaScript ❤️
-- 💞️ エンジニアリング プロジェクトで協力したいと考えています
--
-- 📫 私への連絡方法:
-    - https://www.linkedin.com/in/awolaju/
-    - tobiawolaju21@gmail.com (メール)
-    - @TobiAwolaju (twitter)
-    - myArt ポートフォリオ http://sidotart.vercel.app
-
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tobi-awolaju-21&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
