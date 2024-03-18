@@ -33,16 +33,16 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=folaoluwafemi&show_icons=true&locale=en&theme=gruvbox&layout=compact" alt="folaoluwafemi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tobi-awolaju-21&show_icons=true&locale=en&theme=gruvbox&layout=compact" alt="tobi-awolaju-21" /></p>
 
 <br clear="left"/>
 
-![folaoluwafemi's github stats](https://github-readme-stats.vercel.app/api?username=folaoluwafemi&show_icons=true&theme=gruvbox)
+![tobi-awolaju's github stats](https://github-readme-stats.vercel.app/api?username=tobi-awolaju-21&show_icons=true&theme=gruvbox)
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=folaoluwafemi&theme=gruvbox" alt="folaoluwafemi" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tobi-awolaju-21&theme=gruvbox" alt="tobi-awolaju-21" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=folaoluwafemi&theme=gruvbox" alt = "" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tobi-awolaju-21&theme=gruvbox" alt = "" /></a> </p>
 
-<!-- <p><a href="https://twitter.com/popestrings" target="_blank"><img align="left" src="https://img.shields.io/twitter/url?style=social&url=https://twitter.com/popestrings" alt="folaoluwafemi" /></a></p> -->
+<p><a href="https://twitter.com/TobiAwolaju" target="_blank"><img align="left" src="https://img.shields.io/twitter/url?style=social&url=https://twitter.com/TobiAwolaju" alt="tobi-awolaju-21" /></a></p>
 
