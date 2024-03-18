@@ -44,5 +44,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tobi-awolaju-21&theme=gruvbox" alt = "" /></a> </p>
 
-<p><a href="https://twitter.com/TobiAwolaju" target="_blank"><img align="left" src="https://img.shields.io/twitter/url?style=social&url=https://twitter.com/TobiAwolaju" alt="tobi-awolaju-21" /></a></p>
 
