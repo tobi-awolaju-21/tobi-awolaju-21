@@ -1,4 +1,4 @@
-## The Artist turned Engineer ##
+## The Designer | Engineer ##
 - 👋🏾 Hi, I’m Tobiloba Awolaju -- SidotArt
 - 👀 I’m interested in:
     - Cross Platform app development with flutter
