@@ -1,2 +1,2 @@
 ## Researcher | Electronic/Software Engineer ##
-Tobi Awolaju (Kawaii) is a passionate researcher, electronic/software engineer specializing in quantum hardware and software development. With a strong foundation in data science, machine learning, and computational modeling, with experties in languages such as Python, JavaScript, and C++. 
+I'm Tobi Awolaju (Black Tea) I'm a web3 software engineer with a background in math and computer science. I am always building something on web3, when I'm not writing a smart contract, I'm probably somewhere building an Ai model to run on an IOT hardware.
